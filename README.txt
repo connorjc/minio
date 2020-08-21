@@ -1,4 +1,4 @@
-# hibou-minIO
+# minio
 
 Create a simple docker-compose.yml that instantiates a minio service, and a
 python container that connects to minio to upload an object (maybe a small
